@@ -12,6 +12,7 @@
 		5251E6252179480200094B8A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5251E6232179480200094B8A /* Main.storyboard */; };
 		5251E6272179480300094B8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5251E6262179480200094B8A /* Assets.xcassets */; };
 		5251E62A2179480300094B8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5251E6282179480300094B8A /* LaunchScreen.storyboard */; };
+		5251E632217948A900094B8A /* menu.imageset in Resources */ = {isa = PBXBuildFile; fileRef = 5251E631217948A900094B8A /* menu.imageset */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5251E6262179480200094B8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5251E6292179480300094B8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5251E62B2179480300094B8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5251E631217948A900094B8A /* menu.imageset */ = {isa = PBXFileReference; lastKnownFileType = folder; path = menu.imageset; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				5251E6212179480200094B8A /* ViewController.swift */,
 				5251E6232179480200094B8A /* Main.storyboard */,
 				5251E6262179480200094B8A /* Assets.xcassets */,
+				5251E631217948A900094B8A /* menu.imageset */,
 				5251E6282179480300094B8A /* LaunchScreen.storyboard */,
 				5251E62B2179480300094B8A /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 				5251E62A2179480300094B8A /* LaunchScreen.storyboard in Resources */,
 				5251E6272179480300094B8A /* Assets.xcassets in Resources */,
 				5251E6252179480200094B8A /* Main.storyboard in Resources */,
+				5251E632217948A900094B8A /* menu.imageset in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
